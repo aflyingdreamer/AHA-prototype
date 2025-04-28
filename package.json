@@ -1,0 +1,12 @@
+{
+  "name": "aha-prototype",
+  "version": "1.0.0",
+  "description": "AHA Prototype with Figma Design System Integration",
+  "main": "index.js",
+  "scripts": {
+    "fetch-figma": "node scripts/figma/fetch-design-system.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
+} 
