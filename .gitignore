@@ -1,0 +1,6 @@
+# Figma exports
+styles/figma/figma-raw.json
+
+# Dependencies
+node_modules/
+.DS_Store 
